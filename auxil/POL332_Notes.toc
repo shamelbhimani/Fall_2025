@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Introduction to Causality}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Chapter I -- Kosuke Imai. Quantitative Social Science: An Introduction. Princeton: Princeton University Press, 2017.}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Introduction to Causality}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Causal Effects and the Counterfactual}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Randomized Controlled Trials}{2}{subsubsection.1.1.3}%

@@ -29,9 +29,104 @@
 \tableofcontents
 \newpage
 
+\section{Introduction to Causality}
 
+    \subsection{Chapter I -- Kosuke Imai. Quantitative Social Science: An Introduction. Princeton: Princeton University Press, 2017.}
+    \subsubsection{Introduction to Causality}
 
+    \noindent \textbf{Experimental Data:} examines how a treatment causally
+affects and outcome by assigning varying values of the treatment variable to
+different observations, and measuring their corresponding values of the
+outcome.\\
 
+    \noindent \textbf{Contingency Table:} Summarizes the relationship
+between the treatment variables and the outcome variable.\\
+
+    \noindent \textbf{Binary Variable/Dummy Variable:} Takes the value of 1
+if a condition is true and 0 if the condition is false. The sample of a
+binary variable equals the sample proportion of 1s. This means that the true
+observations can be conveniently calculated as the \textit{sample mean}, or \textit{sample average}.\\
+
+    To calculate the sample mean:
+
+        \[
+            \mu = \frac{\sum_{i=1}^{n} x_i}{n}
+        \]
+            Where:\\
+
+$x_i$ represents each individual value or data point in the
+sample;\\
+    \indent $n$ represents the total number of observations or data points
+in the sample.\\
+
+\subsubsection{Causal Effects and the Counterfactual}
+
+    \noindent Causal inference is the comparison between the factual and
+the counterfactual, i.e., what actually happened and what would have
+happened if a key condition were different. Unfortunately, we would never
+observe this counterfactual outcome, because changing one key variable and
+keeping the rest the same may, in some cases, affect internal validity.\\
+
+    \noindent For each observation $i$, we can define the
+\textbf{casual effect} of a binary treatment $T_i$ as the difference between
+two potential outcomes, $Y_i(1) - Y_i(0)$, where $Y_i(1)$ represents the
+outcome that would be realized under the treatment condition $(T_i = 1)$ and $Y_i(0)$ deontes the outcome that would be realized under the control condition $(T_i = 0)$.\\
+
+    \noindent The \textbf{fundamental problem of causal inference} is that
+we observe only one of the two potential outcomes, and which potential
+outcome is observed depends on the treatment status. Formally, the observed
+outcome $Y_i$ is equal to $Y_i(T_i)$.\\
+
+    \noindent This simple framework of causal inference also clarifies what
+is and is not an appropriate causal question. Characteristics like gender
+and race, for example, are called \textit{immutable characteristics}, and
+many scholars believe that causal questions about these characteristics are
+not answerable. In fact, there exists a mantra which states, ``No causation
+without manipulation''. However, immutable characteristics \textit{can} and
+have been studied. Instead of tackling the task of directly estimating the
+causal effect of race, researchers use \textit{perception scores} of the
+unit of analysis.
+
+    \subsubsection{Randomized Controlled Trials}
+
+    \noindent In a \textbf{randomized controlled trial (RCT)}, each unit is
+randomly assigned either to the treatment or control group. This
+randomization of treatment assignment guarantees that the average difference
+in outcome between the treatment and control groups can be attriobuted
+solely to the treatment, because the two groups are on average identical to
+each other in all pretreatment characteristics.\\
+
+    \noindent \textbf{Sample Average Treatment Effect:} is defined as the
+sample-average of individual-level causal effects (i.e., $Y_i(1) - Y_i(0)$).
+Formally, in the potential outcomes framework:\\
+
+    Let $Y_i(1)$ = potential outcome for unit $i$ if treated;\\
+    \indent Let $Y_i(0)$ = potential outcome for unit $i$ if untreated;\\
+    \indent The individual treatment effect is:\\
+    \[
+        \tau_{i} = Y_i(1) - Y_i(0)
+    \]
+    \indent The Sample Average Treatment Effect (SATE) is then:
+    \[
+        SATE = \frac{1}{n}\sum^{n}_{i=1}(Y_i(1)-Y_i(0))
+    \]
+    \indent where $n$ is the sample size.\\
+
+    \noindent The SATE is not directly observable. For the treatment group
+that received the treatment, we observe the average outcome under the
+treatment but do not know what their average outcome would have been in the
+absence of treatment for the same unit (the fundamental problem of causal
+inference). The same problem exists for the \textit{control group} because
+this group does not receive the treatment and as a result, we do not
+observe the average outcome that would occur under the treatment condition.\\
+
+    \noindent In order to estimate the average counterfactual outcome for
+the treatment group, we may use the observed average outcome of the control
+group. Similarly, we can use the observed average outcome of the treatment
+group as an estimate of the average counterfactual outcome for the control
+group. This suggests that SATE can be estimated by calculating the
+difference in the average outcome between the treatment and control groups,
+or the \textit{difference-in-means estimator}.
 
 
 
