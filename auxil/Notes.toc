@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Introduction to Network Analysis}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Olga V. Chyzh. Network analysis in international relations. In Cameron G. Thies, editor, Handbook of International Relations, pages 158–170. Edward Elgar Publishing, 2025.}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Networks in International Relations}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Methodological and Theoretical Contributions}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}The Debate and Normalization of Network Analysis in IR}{3}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Current Research and Future Directions}{3}{subsubsection.1.1.4}%
