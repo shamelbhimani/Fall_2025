@@ -12,3 +12,4 @@
 \contentsline {subsubsection}{\numberline {1.3.2}Early Critiques and `Development Alternatives'}{6}{subsubsection.1.3.2}%
 \contentsline {subsubsection}{\numberline {1.3.3}The Ideology of Progress and the Post-Development Critique}{7}{subsubsection.1.3.3}%
 \contentsline {subsubsection}{\numberline {1.3.4}Alternatives to Development}{7}{subsubsection.1.3.4}%
+\contentsline {subsubsection}{\numberline {1.3.5}Contemporary Context: Progressive Governments and Neoextractivism}{8}{subsubsection.1.3.5}%
