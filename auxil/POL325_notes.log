@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  4 SEP 2025 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  4 SEP 2025 15:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -537,22 +537,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--312
 
 
 
-[5] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
+[5]
+
+[6] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `POL325_notes.out' has not changed.
-(rerunfilecheck)             Checksum: E7D8C617F1A395D32F1020DD13ABB771;4095.
+(rerunfilecheck)             Checksum: 66F78ACDC7CB420DC5FF34BE5D78686E;5484.
  ) 
 Here is how much of TeX's memory you used:
- 11462 strings out of 473903
- 176446 string characters out of 5726108
+ 11465 strings out of 473903
+ 176482 string characters out of 5726108
  1939908 words of memory out of 5000000
- 34160 multiletter control sequences out of 15000+600000
+ 34161 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1261b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1443b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Shamel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1000.pk><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -562,9 +564,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\POL325_notes.pd
-f (5 pages, 134092 bytes).
+f (6 pages, 138838 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
