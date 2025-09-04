@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**./Notes.tex
-(Notes.tex
+**./POL325_notes.tex
+(POL325_notes.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (C:\Users\Shamel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -391,8 +391,8 @@ ftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box65
-) (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
-\openout1 = `Notes.aux'.
+) (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
+\openout1 = `POL325_notes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -474,10 +474,10 @@ cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 25.
- (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.out)
-(C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.out)
+ (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.out)
+(C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.out)
 \@outlinefile=\write4
-\openout4 = `Notes.out'.
+\openout4 = `POL325_notes.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
 
@@ -491,9 +491,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
 (C:\Users\Shamel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.toc)
+(C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.toc)
 \tf@toc=\write5
-\openout5 = `Notes.toc'.
+\openout5 = `POL325_notes.toc'.
 
 
 
@@ -505,77 +505,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--38
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--50
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--67
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
 
  []
 
 
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 106--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--137
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
-
- []
-
-
-
-[3] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
+[2] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
-Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: C3B2E472855C9F45E5B734CFD8D2128B;2370.
+Package rerunfilecheck Info: File `POL325_notes.out' has not changed.
+(rerunfilecheck)             Checksum: CEAD6B46C961095DF52DAC0F57ADF749;1589.
  ) 
 Here is how much of TeX's memory you used:
- 11452 strings out of 473903
- 176133 string characters out of 5726108
+ 11444 strings out of 473903
+ 176169 string characters out of 5726108
  1938908 words of memory out of 5000000
- 34155 multiletter control sequences out of 15000+600000
- 566613 words of font info for 69 fonts, out of 8000000 for 9000
+ 34152 multiletter control sequences out of 15000+600000
+ 566267 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1028b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1261b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Shamel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1000.pk><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmbx12.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Shamel/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (3 pa
-ges, 114153 bytes).
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\POL325_notes.pd
+f (2 pages, 96385 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
