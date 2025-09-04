@@ -2,3 +2,4 @@
 \contentsline {subsection}{\numberline {1.1}Cristóbal Kay (2018) Modernization and Dependency Theory. From The Routledge Handbook of Latin American Development Julie Cupples, Marcel Palomino-Schalscha, and Manuel Prieto, eds. New York: Routledge, pp 15-28.}{2}{subsection.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.1}Modernization Theory}{2}{subsubsection.1.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.2}Dependence Theory (DT)}{3}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Laura Zapata-Cantu and Fernando González (2021) Challenges for Innovation and Sustainable Development in Latin America: The Significance of Institutions and Human Capital. Sustainability.}{4}{subsection.1.2}%
