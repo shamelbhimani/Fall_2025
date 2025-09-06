@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  6 SEP 2025 17:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  6 SEP 2025 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -572,8 +572,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--139
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 150--155
 
-[3] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL332_Notes.aux)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+
+
+[3]
+
+[4] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL332_Notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -582,8 +599,8 @@ Package rerunfilecheck Info: File `POL332_Notes.out' has not changed.
 (rerunfilecheck)             Checksum: 99A830791403A57822C2592F882C7E09;2524.
  ) 
 Here is how much of TeX's memory you used:
- 11458 strings out of 473903
- 176420 string characters out of 5726108
+ 11459 strings out of 473903
+ 176426 string characters out of 5726108
  1937908 words of memory out of 5000000
  34159 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
@@ -604,9 +621,9 @@ s/cm/cmr7.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\POL332_Notes.pd
-f (3 pages, 156661 bytes).
+f (4 pages, 158951 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
