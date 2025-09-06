@@ -4,3 +4,5 @@
 \contentsline {subsubsection}{\numberline {1.1.2}Causal Effects and the Counterfactual}{2}{subsubsection.1.1.2}%
 \contentsline {subsubsection}{\numberline {1.1.3}Randomized Controlled Trials}{2}{subsubsection.1.1.3}%
 \contentsline {section}{\numberline {2}Natural Experiments}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Chapter II -- Kosuke Imai. Quantitative Social Science: An Introduction. Princeton: Princeton University Press, 2017.}{3}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Observational Studies}{3}{subsubsection.2.1.1}%
