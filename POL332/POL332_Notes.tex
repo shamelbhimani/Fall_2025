@@ -217,7 +217,42 @@ follows a parallel trend in the absence of treatment.
         \item The quantity of interest under the DiD design is called the \textit{sample average treatment efect for the treated (SATT)}.
     \end{itemize}
 
+    \subsubsection{Sample Average Treatment Effect for the Treated (SATT)}
 
+    \noindent The SATT is the difference between the average outcome of the
+treated group with the treatment and the average outcome the sample group \textit{would have had} if they had not been treated.\\
+
+    \noindent The formula can be expressed as:
+
+    \[
+        SATT = E[Y_{i}(1)|D_{i}=1] - E[Y_{i}(0)|D_{i}=1]
+    \]
+    \indent Where:\\
+    \indent $Y_i(1)$ is the potential outcome for individual $i$ if
+they receive the treatment;\\
+    \indent $Y_i(0)$ is the potential outcome for individual $i$ if
+they do not receive the treatment (the counterfactual);\\
+    \indent $D_i-1$ indicates that individual $i$ is in the treatment group;\\
+    \indent $E[.]$ is the expectation operator, which in this context means
+we are taking the average over the individuals in the specified group.\\
+
+    \noindent A key challenge in calculating the SATT is that we can never
+observe both potential outcomes for the same individual at the same time. We
+only observe the outcome for the treated group with the treatment. The
+counterfactual -- what would have happened to the treated group without the
+treatment -- is unobserved.\\
+
+    \noindent Therefore, to estimate the SATT, we need to find a suitable
+comparison group of untreated individuals that can serve as a proxy for
+the counterfactual outcome of the treated group. A common way to express
+the estimation of SATT using observed data is:\\
+
+    \[
+        SATT = \frac{1}{n_1} \sum^n_{i=1}T_i[Y_i(1)-Y_i(0)]
+    \]
+    \indent Where:\\
+    \indent $T_i$ is the binary treatment indicator variable;\\
+    \indent $n_1 = \sum^n_{i=1}T_i$ is the size of the treatment group.\\
 
 
 
