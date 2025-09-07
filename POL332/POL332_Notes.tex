@@ -189,6 +189,35 @@ using statistical procedures. Some methods of statistical control are:
         pretreatment variables or a subclass.
     \end{itemize}
 
+    \noindent In observational studies, the data collected over time are a
+valuable source of information. Multiple measurements taken over time on the
+same units are called \textit{longitudinal data} or \textit{panel data}.
+    \begin{itemize}
+        \item Longitudinal data often yield a more credible comparison of
+        the treatment and control groups than \textit{cross-section data}
+        because the former contain additional information about changes over
+        time.
+    \end{itemize}
+
+    \noindent \textbf{Before-and-after Design:} Examines how the outcome
+variable changed from the pretreatment period to the post-treatment period
+for the same set of units. The design is able to adjust for any confounding
+factor that is specific to each unit but does not change over time. However,
+the design does not address possible bias due to time-varying confounders.\\
+
+    \noindent \textbf{Difference-in-Differences Design:} Extends the
+before-and-after design to address the confounding bias due to time treends.
+The key assumption behind the DiD design is that the outcome variable
+follows a parallel trend in the absence of treatment.
+    \begin{itemize}
+        \item Under the DiD design, the sample average causal effect
+        estimate is the difference between the observed outcome after the
+        treatment and the counterfactual outcome derived under the parallel
+        time-trend assumption.
+        \item The quantity of interest under the DiD design is called the \textit{sample average treatment efect for the treated (SATT)}.
+    \end{itemize}
+
+
 
 
 
