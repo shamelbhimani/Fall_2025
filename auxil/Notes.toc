@@ -4,4 +4,6 @@
 \contentsline {subsubsection}{\numberline {1.1.2}Methodological and Theoretical Contributions}{2}{subsubsection.1.1.2}%
 \contentsline {subsubsection}{\numberline {1.1.3}The Debate and Normalization of Network Analysis in IR}{3}{subsubsection.1.1.3}%
 \contentsline {subsubsection}{\numberline {1.1.4}Current Research and Future Directions}{3}{subsubsection.1.1.4}%
-\contentsline {section}{\numberline {2}Network Centrality}{3}{section.2}%
+\contentsline {section}{\numberline {2}Network Centrality}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}John F. Padgett and Christopher K. Ansell. Robust action and the rise of the Medici, 1400-1434. American Journal of Sociology, 98(6):1259–1319, 1993.}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Introduction and Core Argument}{4}{subsubsection.2.1.1}%

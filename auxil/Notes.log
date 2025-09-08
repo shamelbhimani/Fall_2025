@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  8 SEP 2025 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  8 SEP 2025 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,18 +547,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--145
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 167--171
 
-[3] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
+ []
+
+
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 172--177
+
+ []
+
+Notes.tex:178: Undefined control sequence.
+l.178     \noindent \textbf{Key Concept:} \texit
+                                                {Robust Action}, Cosimo de
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[4] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
-Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: CED76A08D262C6D27FFBDDB609C0964E;2506.
+
+
+Package rerunfilecheck Warning: File `Notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Notes.out':
+(rerunfilecheck)             Before: CED76A08D262C6D27FFBDDB609C0964E;2506
+(rerunfilecheck)             After:  9CC2412EB4D4CC7F5B473EF44E587369;3606.
  ) 
 Here is how much of TeX's memory you used:
- 11454 strings out of 473903
- 176153 string characters out of 5726108
+ 11457 strings out of 473903
+ 176192 string characters out of 5726108
  1938908 words of memory out of 5000000
  34156 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
@@ -572,10 +600,10 @@ ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Shamel/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (3 pa
-ges, 114815 bytes).
+Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (4 pa
+ges, 119701 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
