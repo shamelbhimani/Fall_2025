@@ -13,3 +13,4 @@
 \contentsline {subsubsection}{\numberline {2.1.5}Empirical Findings: Attributional vs. Network Structure}{5}{subsubsection.2.1.5}%
 \contentsline {subsubsection}{\numberline {2.1.6}Network Dynamics: How the Medici Party Emerged}{7}{subsubsection.2.1.6}%
 \contentsline {subsubsection}{\numberline {2.1.7}Network Identities: Robust Action and Legitimacy}{8}{subsubsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.8}Conclusion}{8}{subsubsection.2.1.8}%
