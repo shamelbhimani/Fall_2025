@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  8 SEP 2025 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  8 SEP 2025 11:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -559,23 +559,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 172--177
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
 
-[4] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--232
+
+ []
+
+
+
+[4]
+
+[5] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: 5BDC239AE1701D9FBE077BAAC666E25C;3795.
+(rerunfilecheck)             Checksum: E24AEE105622DF74189EC07CF3BE0C40;4078.
  ) 
 Here is how much of TeX's memory you used:
- 11461 strings out of 473903
- 176269 string characters out of 5726108
+ 11464 strings out of 473903
+ 176315 string characters out of 5726108
  1938908 words of memory out of 5000000
- 34159 multiletter control sequences out of 15000+600000
+ 34160 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1028b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1028b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Shamel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1000.pk><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -584,10 +601,10 @@ ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Shamel/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (4 pa
-ges, 125489 bytes).
+Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (5 pa
+ges, 128398 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
