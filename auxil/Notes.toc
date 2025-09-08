@@ -10,3 +10,4 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Core Concepts Explained}{4}{subsubsection.2.1.2}%
 \contentsline {subsubsection}{\numberline {2.1.3}Historical Context: Florence (1400-1434)}{4}{subsubsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2.1.4}Methodology and Data}{5}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Empirical Findings: Attributional vs. Network Structure}{5}{subsubsection.2.1.5}%
