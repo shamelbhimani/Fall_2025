@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  12 SEP 2025 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  12 SEP 2025 15:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -650,20 +650,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 736--742
 
 
 [11]
+Underfull \hbox (badness 10000) in paragraph at lines 751--756
 
-[12] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 757--759
+
+ []
+
+
+Overfull \hbox (3.62173pt too wide) in paragraph at lines 771--773
+[]\OT1/cmr/bx/n/10 Limitations: \OT1/cmr/m/n/10 In-come pol-icy pri-ar-ily ben-
+e-fits for-mal waged work-ers, ne-glect-ing in-for-mal/precarious
+ []
+
+
+
+[12]
+Overfull \hbox (11.2039pt too wide) in paragraph at lines 813--817
+[]\OT1/cmr/bx/n/10 Overall: \OT1/cmr/m/n/10 Frag-mented so-cial poli-cies, with
+ com-po-nents from both pre- and post-neoliberal paradigms.
+ []
+
+
+
+[13] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `POL325_notes.out' has not changed.
-(rerunfilecheck)             Checksum: 8B972D98C66D56325FA5CC63CC6F7E75;9806.
+(rerunfilecheck)             Checksum: BAAAEF6AB2EC56F42A7EFDCC2AA5C39D;10249.
  ) 
 Here is how much of TeX's memory you used:
- 11496 strings out of 473903
- 176972 string characters out of 5726108
- 1943908 words of memory out of 5000000
- 34175 multiletter control sequences out of 15000+600000
+ 11499 strings out of 473903
+ 177019 string characters out of 5726108
+ 1944908 words of memory out of 5000000
+ 34176 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1443b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -676,9 +700,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\POL325_notes.pd
-f (12 pages, 175824 bytes).
+f (13 pages, 180634 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 223 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
