@@ -18,3 +18,4 @@
 \contentsline {subsubsection}{\numberline {2.1.1}Introduction to Social Policy Evolution in Latin America}{8}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Changing Paradigms of Social Policy}{8}{subsubsection.2.1.2}%
 \contentsline {subsubsection}{\numberline {2.1.3}Economic and Social Reform Under Neoliberalism}{9}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Legacy of Economic Social Reform (Neoliberalism)}{11}{subsubsection.2.1.4}%
