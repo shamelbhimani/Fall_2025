@@ -7,3 +7,6 @@
 \contentsline {subsection}{\numberline {2.1}Chapter II -- Kosuke Imai. Quantitative Social Science: An Introduction. Princeton: Princeton University Press, 2017.}{3}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Observational Studies}{3}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Sample Average Treatment Effect for the Treated (SATT)}{4}{subsubsection.2.1.2}%
+\contentsline {section}{\numberline {3}Measurement Bias}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Chapter III}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Introduction to Survey Sampling}{5}{subsubsection.3.1.1}%
