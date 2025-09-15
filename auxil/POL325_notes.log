@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  15 SEP 2025 13:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  15 SEP 2025 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -741,18 +741,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 1104--1107
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 1113--1118
 
-[18] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
+ []
+
+
+
+[18]
+
+[19] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
-Package rerunfilecheck Info: File `POL325_notes.out' has not changed.
-(rerunfilecheck)             Checksum: D553DFE5C466B8EB2EF289FED365F87F;13574.
+
+
+Package rerunfilecheck Warning: File `POL325_notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `POL325_notes.out':
+(rerunfilecheck)             Before: D553DFE5C466B8EB2EF289FED365F87F;13574
+(rerunfilecheck)             After:  6B45F1CA8D008FD6730F1AD16A40129D;13763.
  ) 
 Here is how much of TeX's memory you used:
- 11518 strings out of 473903
- 177314 string characters out of 5726108
+ 11520 strings out of 473903
+ 177340 string characters out of 5726108
  1949908 words of memory out of 5000000
  34183 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
@@ -767,9 +781,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\POL325_notes.pd
-f (18 pages, 205411 bytes).
+f (19 pages, 208211 bytes).
 PDF statistics:
- 285 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
  233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
