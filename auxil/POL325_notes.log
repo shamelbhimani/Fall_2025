@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  12 SEP 2025 17:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  15 SEP 2025 13:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -500,6 +500,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/Shamel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 35--38
 
  []
@@ -511,16 +513,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--105
 
 
 
-[2]
-
 [3]
+
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 191--195
 
  []
 
 
 
-[4]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 292--295
 
  []
@@ -542,14 +544,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 320--325
 
 
 
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 340--342
 
  []
 
 
 
-[6]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 397--399
 
  []
@@ -571,7 +573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 460--464
 
 
 
-[7]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 476--478
 
  []
@@ -598,7 +600,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 491--493
 
 
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 570--573
 
  []
@@ -625,9 +627,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 593--596
 
 
 
-[9]
-
 [10]
+
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 685--689
 
  []
@@ -649,7 +651,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 736--742
 
 
 
-[11]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 751--756
 
  []
@@ -667,7 +669,7 @@ e-fits for-mal waged work-ers, ne-glect-ing in-for-mal/precarious
 
 
 
-[12]
+[13]
 Overfull \hbox (11.2039pt too wide) in paragraph at lines 813--817
 []\OT1/cmr/bx/n/10 Overall: \OT1/cmr/m/n/10 Frag-mented so-cial poli-cies, with
  com-po-nents from both pre- and post-neoliberal paradigms.
@@ -697,33 +699,65 @@ OT1/cmr/m/n/10 based on an-tag-o-niz-ing civil/political rights (es-sen-tial to
 
 
 
-[13]
-
 [14]
+
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 954--956
 
  []
 
 
 
-[15]
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 1078--1080
 
-[16] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1083
+
+ []
+
+
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1087
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1090
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1093
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1107
+
+ []
+
+
+
+[18] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `POL325_notes.out' has not changed.
-(rerunfilecheck)             Checksum: B390A1916082C71D8623CDE537E678DC;12462.
+(rerunfilecheck)             Checksum: D553DFE5C466B8EB2EF289FED365F87F;13574.
  ) 
 Here is how much of TeX's memory you used:
- 11512 strings out of 473903
- 177230 string characters out of 5726108
- 1948908 words of memory out of 5000000
- 34181 multiletter control sequences out of 15000+600000
+ 11518 strings out of 473903
+ 177314 string characters out of 5726108
+ 1949908 words of memory out of 5000000
+ 34183 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1443b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1443b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Shamel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1000.pk><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -733,9 +767,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\POL325_notes.pd
-f (16 pages, 198933 bytes).
+f (18 pages, 205411 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 217 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
