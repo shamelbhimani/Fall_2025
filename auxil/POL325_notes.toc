@@ -28,3 +28,4 @@
 \contentsline {subsection}{\numberline {2.3}Adriana Piatti-Crocker (2021) Diffusion of NiUnaMenos in Latin America: Social Protests Amid a Pandemic. Journal of International Women’s Studies 22(12)}{17}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}\#NiUnaMenos Movement Overview}{17}{subsubsection.2.3.1}%
 \contentsline {subsubsection}{\numberline {2.3.2}Diffusion of NiUnaMenos}{18}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}COVID-19 Pandemic's Impact on NiUnaMenos}{19}{subsubsection.2.3.3}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  15 SEP 2025 13:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  15 SEP 2025 14:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -491,15 +491,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
 (C:\Users\Shamel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.toc)
+(C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.toc
+
+[1
+
+{C:/Users/Shamel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 \tf@toc=\write5
 \openout5 = `POL325_notes.toc'.
 
 
-
-[1
-
-{C:/Users/Shamel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 35--38
@@ -748,27 +748,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 1113--1118
 
 
 [18]
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1179
+
+ []
+
+
 
 [19] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
-
-
-Package rerunfilecheck Warning: File `POL325_notes.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `POL325_notes.out':
-(rerunfilecheck)             Before: D553DFE5C466B8EB2EF289FED365F87F;13574
-(rerunfilecheck)             After:  6B45F1CA8D008FD6730F1AD16A40129D;13763.
+Package rerunfilecheck Info: File `POL325_notes.out' has not changed.
+(rerunfilecheck)             Checksum: F68F64BCF02D44B97B2F4014EB9F9EC6;14043.
  ) 
 Here is how much of TeX's memory you used:
- 11520 strings out of 473903
- 177340 string characters out of 5726108
+ 11523 strings out of 473903
+ 177401 string characters out of 5726108
  1949908 words of memory out of 5000000
- 34183 multiletter control sequences out of 15000+600000
+ 34185 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,1443b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -781,9 +779,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\POL325_notes.pd
-f (19 pages, 208211 bytes).
+f (19 pages, 211275 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 249 words of extra memory for PDF output out of 10000 (max. 10000000)
 
