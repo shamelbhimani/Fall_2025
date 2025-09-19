@@ -34,3 +34,4 @@
 \contentsline {subsection}{\numberline {3.1}Thomas Chiasson-LaBel and Manel Larrabure (2019) Elite and Popular Responses to a Left in Crisis. European Review of Latin American and Caribbean Studies 108: 87-107.}{20}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Central Thesis: A Relational Approach to the Pink Tide's Crisis}{20}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Timeline of the Pink Tide's Decline}{20}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Critique of Mainstream Analytical Frameworks}{20}{subsubsection.3.1.3}%
