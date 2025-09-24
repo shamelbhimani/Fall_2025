@@ -14,3 +14,6 @@
 \contentsline {subsubsection}{\numberline {2.1.6}Network Dynamics: How the Medici Party Emerged}{7}{subsubsection.2.1.6}%
 \contentsline {subsubsection}{\numberline {2.1.7}Network Identities: Robust Action and Legitimacy}{8}{subsubsection.2.1.7}%
 \contentsline {subsubsection}{\numberline {2.1.8}Conclusion}{8}{subsubsection.2.1.8}%
+\contentsline {section}{\numberline {3}Communities}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Marina G Duque. Recognizing international status: A relational approach. Inter-national Studies Quarterly, 62(3):577–592, 2018.}{8}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Central Argument and Thesis}{8}{subsubsection.3.1.1}%
