@@ -722,6 +722,31 @@ as points (\textbf{nodes}) and their relationships as lines (\textbf{edges}).
 
     \noindent \textbf{Key Limitation:} Standard social network analysis is \textbf{static} and structural, ignoring the \textbf{processual aspects} of social activity. It is therefore inadequate for analyzing the process of fission.
 
+    \subsubsection{The Capacitated Network Model}
 
+    \noindent \textbf{A Processual Model:} This model views the network as a
+system of channels for information flow, enabling a processual analysis.\\
+
+    \noindent \textbf{Model Specification:} Defined as an ordered triplet \textbf{(V, E, C)}.
+    \begin{itemize}
+        \item \textbf{V:} The set of individuals (nodes) in the network;
+        \item \textbf{E:} The \textbf{existence matrix}, a standard 0/1
+        social network matrix indicating if a tie exists.
+        \item \textbf{C:} The \textbf{capacity matrix}, which quantifies the
+        relative strength (or potential for information flow) of each
+        existing edge.
+    \end{itemize}
+
+    \noindent \textbf{Determining Edge Capacity:}
+    \begin{itemize}
+        \item Directly measuring ``political information'' flow is impossible.
+        \item \textbf{Assumption:} The amount of information transmitted
+        between two individuals is a \textbf{linear function} of the number
+        of different social contexts in which they interact.
+        \item \textbf{Method:} A scale of 8 interaction contexts was
+        created (e.g., academic classes, bars, karate tournaments). The
+        value for each edge in matrix C is the total number of contexts in
+        which that pair of individuals was observed interacting.
+    \end{itemize}
 
 \end{document}

@@ -25,3 +25,4 @@
 \contentsline {subsubsection}{\numberline {3.2.1}The Problem of Fission in Small Groups}{10}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Case Study: A University Karate Club}{11}{subsubsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.3}Social Network Models and Their Limitations}{11}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}The Capacitated Network Model}{11}{subsubsection.3.2.4}%
