@@ -27,3 +27,4 @@
 \contentsline {subsubsection}{\numberline {3.2.3}Social Network Models and Their Limitations}{11}{subsubsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.4}The Capacitated Network Model}{11}{subsubsection.3.2.4}%
 \contentsline {subsubsection}{\numberline {3.2.5}Analysis and Results}{12}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Conclusion and Implications}{12}{subsubsection.3.2.6}%
