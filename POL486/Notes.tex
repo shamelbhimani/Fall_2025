@@ -600,4 +600,27 @@ has four key dimensions:
         \end{itemize}
     \end{itemize}
 
+    \subsubsection{Empirical Strategy and Methodology}
+
+    \noindent \textbf{Data:} The network of diplomatic embassies from the
+Diplomatic Contacts Database.
+    \begin{itemize}
+        \item \textbf{Rationale:} Establishing an embassy is a costly and
+        symbolic act of recognition. The network of embassies provides a
+        comprehensive map of recognition practices.
+    \end{itemize}
+
+    \noindent \textbf{Unit of Analysis:} The
+\textbf{network of embassies} (a relational measure), not just a state-level
+count of embassies received. This preserves information about the structure
+of relationships (i.e., who recognizes whom).\\
+
+    \noindent \textbf{Method: Temporal Exponential Random Graph Model (TERGM):}
+    \begin{itemize}
+        \item \textbf{Advantage:} This model can test for both
+        attribute-based (exogenous) effects and relational/structural (
+        endogenous) effects, such as reciprocity and popularity. It also
+        avoids statistical biases common when analyzing relational data.
+    \end{itemize}
+
 \end{document}
