@@ -17,3 +17,4 @@
 \contentsline {section}{\numberline {3}Communities}{8}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Marina G Duque. Recognizing international status: A relational approach. Inter-national Studies Quarterly, 62(3):577–592, 2018.}{8}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Central Argument and Thesis}{8}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}The Conventional (Attribute-Based) Approach and Its Flaws}{9}{subsubsection.3.1.2}%
