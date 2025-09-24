@@ -749,4 +749,42 @@ system of channels for information flow, enabling a processual analysis.\\
         which that pair of individuals was observed interacting.
     \end{itemize}
 
-\end{document}
+    \subsubsection{Analysis and Results}
+
+    \noindent \textbf{Technique:} The \textbf{maximum flow-minimum cut}
+labeling procedure.
+    \begin{itemize}
+        \item This technique models information as flowing from a
+        \textbf{source} (Mr. Hi) to a \textbf{sink} (John A.).
+        \item A \textbf{a minimum cut} is the `bottleneck' in the network --
+        the break with the smallest capacity that separates the source from
+        the sink.
+        \item The \textbf{Max-Flow Min-Cut Theorem} states that the maximum
+        possible flow between a source and a sink is equal to the capacity
+        of the minimum cut.
+    \end{itemize}
+
+    \noindent \textbf{Hypotheses Tested:}
+    \begin{itemize}
+        \item [1.] The minimum cut in the network will align with the
+        factional divide.
+        \item[2.] The minimum cut will accurately predict membership in the
+        two new clubs formed after the fission.
+    \end{itemize}
+
+    \noindent \textbf{Findings:} The model was highly accurate.
+    \begin{itemize}
+        \item It predicted faction membership with \textbf{100\% accuracy}.
+        \item It predicted membership in the post-fission clubs with \textbf{
+        97\% accuracy}.
+        \item The single error involved an individual who was structurally
+        part of John A.'s faction (and correctly placed on the sink side fo
+        the cut by the model) but joined Mr. Hi's club for an overriding
+        personal reason (an upcoming black belt test).
+    \end{itemize}
+
+    \noindent \textbf{Uniqueness:} The minimum cut was proven to be unique
+by reversing the network (source becomes sink) and re-running the analysis,
+which identified the same cut.
+
+ \end{document}
