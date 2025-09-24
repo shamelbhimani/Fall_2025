@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  24 SEP 2025 10:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  24 SEP 2025 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -641,20 +641,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 644--648
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 666--669
 
-[10] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--676
+
+ []
+
+
+
+[10]
+
+[11] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: EA2E39E782DDEED592970353D4B26670;7399.
+(rerunfilecheck)             Checksum: D57B98DF57BD00F5568E46FCAD5BD1BE;8509.
  ) 
 Here is how much of TeX's memory you used:
- 11494 strings out of 473903
- 176820 string characters out of 5726108
- 1942908 words of memory out of 5000000
- 34173 multiletter control sequences out of 15000+600000
+ 11499 strings out of 473903
+ 176897 string characters out of 5726108
+ 1944908 words of memory out of 5000000
+ 34175 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,1028b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -666,10 +683,10 @@ ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Shamel/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (10 p
-ages, 163080 bytes).
+Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (11 p
+ages, 168480 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 228 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
