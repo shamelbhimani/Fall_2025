@@ -434,8 +434,158 @@ methodology called the \textit{randomized response technique}.
         \end{itemize}
     \end{itemize}
 
+\section{Linear Regression}
+    \subsection{Linear Regression}
+
+    \noindent A relationship between two variables is best characterized by
+the following linear model:\\
+
+    \[
+        Y = \underbrace{\alpha}_{\text{intercept}} + \underbrace{\beta}_{\text{slope}}X + \underbrace{\epsilon}_{\text{error term}}
+    \]
+
+    \indent Where\\
+    \indent \indent Y is the outcome or response variable\\
+    \indent \indent X is the predictor variable or the independent variable\\
+    \indent \indent $\epsilon$ is the error term\\
+    \indent \indent $\alpha$ is the intercept -- the average value of Y when
+X is zero\\
+    \indent \indent $\beta$ is the coefficient or slope of X representing
+the increase in the average outcome associated with a one-unit increase in X.\\
+
+    \noindent We use the linear model under the assumption that it
+approximates \textit{normally distributed data}. Since the value of the
+intercept and coefficient of the variable are unknown, they must be
+estimated from the data itself. Once we obtain the estimated values of the
+coefficient and slope, then we have the \textit{regression line}. We can use
+this line to predict the value of the outcome variable.\\
+
+    \noindent Specifically, given a particular value of a predictor, $X = x$, we compute the \textit{predicted value} of the outcome value using the regression function:\\
+
+    \[
+        \hat{Y} = \hat{\alpha} + \hat{\beta}x
+    \]
+
+    Most likely, the predicted value will not equal the observed value. The
+    difference between the outcome/predicted value and the observed outcome
+    is called the \textit{residual error}. We can write the residual as:
+
+    \[
+        \hat{\epsilon} = Y - \hat{Y}
+    \]
 
 
+    \subsection{Least Squares}
+
+    \noindent The regression line is the `line of best fit' becausse it
+minimizes the magnitude of prediction error. To estimate the line's
+intercept and slope parameters, a commonly used method is that of the \textit{least squares method}. The idea is to choose $\hat{alpha}$ and $\hat{\beta}$ such that together they minimize the \textit{\textbf{sum of squared residuals (SSR)}}, defined as:
+
+    \[
+        SSR = \sum^{n}_{i=1}\hat{\epsilon}^{2}_{i}
+            = \sum^{n}_{i=1}(Y_i - \hat{Y_i})^2
+            = \sum^{n}_{i=1}(Y_i - \hat{\alpha} - \hat{\beta}X_i)^2
+    \]
+    \indent Where \\
+    \indent \indent $Y_i$ is the observed outcome variable for the $i$th observation \\
+    \indent \indent $X_i$ is the predictor or independent variable for the $i$th observation \\
+    \indent \indent $\hat{epsilon_i}$ is the residual for the $i$th
+observation \\
+    \indent \indent $n$ is the sample size.\\
+
+    \noindent The third inequality follows from the second, where we
+substitute the linear model $\hat{Y}_i$.\\
+
+    \noindent The value of the SSR is difficult to interpret. However, we
+can use the idea of \textit{root mean square} (RMS). Specifically, we can
+compute the \textit{root mean squared error} as:
+
+    \[
+        RMSE = \sqrt{\frac{1}{n}SSR} = \sqrt{\frac{1}{n}\sum^{n}_{i=1}\hat{\epsilon^2_i}}
+    \]
+
+    Therefore, RMSE represents the average magnitude of the prediction error
+    for the regression, and this is what the method of least squares
+    minimizes.\\
+
+    \noindent The mean of residuals is always zero, and the regression line
+always goes through the center of data $(\bar{X}, \bar{Y})$ where
+$\bar{x}$ and $\bar{Y}$ are the sample means of X and Y, respectively.
+
+\noindent The least squares estimates of intercept and slope parameters are
+given by
+
+    \[
+        \hat{\alpha} = \bar{Y} - \hat{\beta}\bar{X},
+    \]
+
+    \[
+        \hat{\beta} = \frac{\sum^{n}_{i=1}(Y_i - \bar{Y})(X_i - \bar{X})}{\sum^{n}_{i=1}(X_i - \bar{X})^2}
+    \]
+
+    \noindent Recall that the sample means of $Y$ and $X$ are given by
+$\hat{Y} - \frac{1}{n}\sum^{n}_{i=1}Y_i$ and
+$\bar{X} = \frac{1}{n}\sum^{n}_{i=1}X_i$, resprectively. The results imply
+that the regression line always goes through the ceter of the data $(\bar{X}, \bar{Y})$. This is so because substituting $x = \bar{X}$ into the model equation and using the expression for $\hat{\alpha}$ yields $\hat{Y} = \bar{Y}$:
+
+    \[
+        \hat{Y} = \underbrace{(\bar{Y}-\hat{\beta}\bar{X})}_{\hat{\alpha}}+\hat{\beta}\bar{X} = \bar{Y}
+    \]
+
+    \noindent In addition, when the method of least squares is used to
+estimate the coefficients, the predictions based on the fitted regression
+line are accurate on average. More precisely, the mean of residual
+$\hat{\epsilon}$ is zero, as the following algebraic manipulation shows:
+
+    \[
+        mean \ of \ \hat{\epsilon} = \frac{1}{n}\sum^{n}_{i=1}(Y_i = \hat{\alpha}-\hat{\beta}X_i) = \bar{Y} - \hat{\alpha} - \hat{\beta}\bar{X} = 0
+    \]
+
+    It is also important to understand the relationship between the
+    estimated slope of the regression and the correlation coefficient:
+
+    \[
+        correlation \ of \ X \ and \ Y \ \dot \ \frac{standard \ deviation \ of \ Y}{standard \ deviation \ of \ X}
+    \]
+
+    \[
+        \hat{\beta} = \frac{1}{n}\sum^{n}_{i=1}\frac{(Y_i - \bar{Y})(X_i - \bar{X})}{\sqrt{\frac{1}{n}\sum^{n}_{i=1}(Y_i-\hat{Y})^2}\sqrt{\frac{1}{n}\sum^{n}_{i=1}(X_i-\bar{X})^2}} \cdot \frac{\sqrt{\frac{1}{n}\sum^{n}_{i=1}(Y_i - \bar{Y})^2}}{\sqrt{\frac{1}{n}\sum^{n}_{i=1}(X_i-\bar{X})^2}}
+    \]\\
+
+    \noindent The estimated slope coefficient from a linear regression model
+equals the $\rho$ standard deviation unit increase in the outcome variable
+that is associated with an increase of 1 standard deviation in the
+predictor, where $\rho$ is the correlation between the two variables.\\
+
+    \noindent \textbf{Regression towards the mean} represents an empirical
+phenomenon where an observation with a value of the predictor further away
+from the distribution's mean tends to have a value of an outcome variable
+closer to that mean. This tendency can be explained by chance alone.
+
+    \subsection{Model Fit}
+
+    \noindent Model fit measures how well the model fits the data, i.e., how
+accruately the model predicts the observations. We can assess model fit by
+looking at the \textit{coefficient of determination} or $R^2$, which
+represents the proportion of total variation in the outcome variable
+explained by the model. To define $R^2$, we first introduce the
+\textit{total sum of squares} or TSS, which is defined as:
+
+    \[
+        TSS = \sum^{n}_{i=1}(Y_i - \hat{Y})^2
+    \]
+
+    The TSS represents the total variation of the outcome variable based on
+    the square distance from its mean. Now we can define $R^2$ as the
+proportion of TSS explained by the predictor $X$:
+
+    \[
+        R^2 = \frac{TSS - SSR}{TSS} = 1 - \frac{SSR}{TSS}
+    \]
+
+    The value of $R^2$ ranges from 0 (when the correlation between the
+outcome and the predictor is 0) to 1 (when the correlation is 1), indicating
+how well the linear model fits the data at hand.
 
 
 
