@@ -634,7 +634,75 @@ Recall that $\hat{\beta}$ represents the estimated change in $Y$ when $X$ is
 increasing by one unit. Then, we have
 $\hat{Y(1)} - \hat{Y(0)} = (\hat{\alpha} + \hat{\beta}) - \hat{\alpha} = \hat{beta}$, while the estimated average outcome for the control group is equal to the estimated intercept, i.e., $\hat{Y(0)} = \hat{\alpha}$. Thus, the linear regression model provides an alternative, but numerically equaivalent, way to analyze experimental data in this setting.
 
+    \subsection{Regression With Multiple Predictors}
 
+    \noindent So far, we have included only one predictor in the linear
+regression model. However, a regression model can have more than one
+predictor. In general, a regression model with multiple predictors is
+defined as:
+
+    \[
+        Y = \alpha + \beta_{1}X_1 + \beta_{2}X_2 + \dots + \beta_{\rho}X_{\rho} + \epsilon
+    \]
+
+    \noindent The interpretation of each coefficient $\beta_{j}$ is the
+amount of change in the outcome variable associated with a one-unit increase
+in the corresponding predictor $X_j$
+\textit{when all other predictors are held constant}. Therefore, a
+regression with multiple predictors enables researchers to assess the impact
+of each predictor.\\
+
+    \noindent The least squares method described in section 4.2 can be used
+to estimate the model parameters. That is, we choose the values of
+$(\hat{\alpha}, \hat{\beta_1}, \dots \hat{\beta_{\rho}})$ such that the \textit{sum of squared residuals} (SSR) is minimized. The SSR is defined as:
+
+    \[
+        SSR = \sum^{n}_{i=1}\hat{\epsilon^2_i}
+            = \sum^{n}_{i=1}(Y_i - \hat{\alpha} - \hat{\beta_1}X_{i,1} - \hat{\beta_2}X_{i,2} - \dots - \hat{\beta_{\rho}}X_{i, \rho})^2
+    \]
+
+    \indent Where \\
+    \indent \indent $\hat{\epsilon_i}$ is the residual error term\\
+    \indent \indent $X_{i,j}$ is the value of the $j$th predictor for the $i$
+th observation.\\
+
+    \noindent Recall that the residual is defined as the difference between
+the observed response $Y$ and the predicted value $\hat{Y} = \hat{\alpha} + \hat{\beta_1}X_1 + \hat{\beta_2}X_2 + \dots + \hat{\beta_{\rho}X_{\rho}}$.\\
+
+    \noindent The validity of predictions based on the linear regression
+model critically rests on the assumption of linearity. The method of least
+squares always gives us the line that `best fits' the data in the sense of
+minimizing this residual error. However, this does not necessarily mean that
+the linear model is appropriate. While a comprehensive treatment of testing
+and relaxing this assumption is beyond the scope of this book, we must not
+forget that any model or method requires an assumption, and linear
+regression is no exception.\\
+
+    \noindent When there are multiple predictors, we need to computed an \tex
+5it{adjusted coefficient of determination} or \textit{adjusted} $R^2$ with
+so called \textit{degrees of freedom} correction that accounts for the number of predictors.\\
+
+    \noindent Roughly speaking, the degrees of freedom refers to the number
+of observations that are `free to vary', which is often represented by the
+total number of observations minus the parameters to be estimated. Since one
+can always increase the (unadjusted) $R^2$ by including an additional
+predictor (which always decreases SSR), the degrees of freedom correction
+adjusts $R^2$ downwards as more predictors are included in the model. The
+formula of the adjusted $R^2$ is given by:
+
+    \[
+        adjusted \ R^2 = 1 - \frac{\frac{SSR}{(n-(p+1))}}{\frac{TSS}{(n-1)}}
+    \]
+
+    \indent Where\\
+    \indent \indent $n$ is the number of observations\\
+    \indent \indent $p$ is the number of predictors\\
+    \indent \indent $(p+1)$ is the number of coefficients to be estimated,
+i.e., a coefficient for each of $p$ predictors plus an intercept.\\
+
+    \noindent SSR is divided by the number of observations $n$ minus the
+number of coefficients to be estimated $(p+1)$. TSS is divided by $(n-1)$
+since TSS estimates only one parameter, the mean of the outcome variable or $\bar{Y}$.
 
 
 \end{document}
