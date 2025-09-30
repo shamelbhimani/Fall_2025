@@ -28,3 +28,6 @@
 \contentsline {subsubsection}{\numberline {3.2.4}The Capacitated Network Model}{11}{subsubsection.3.2.4}%
 \contentsline {subsubsection}{\numberline {3.2.5}Analysis and Results}{12}{subsubsection.3.2.5}%
 \contentsline {subsubsection}{\numberline {3.2.6}Conclusion and Implications}{12}{subsubsection.3.2.6}%
+\contentsline {section}{\numberline {4}Communities II}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Roger V Gould. Multiple networks and mobilization in the Paris Commune, 1871. American Sociological Review, pages 716–729, 1991.}{13}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Core Argument and Critique of Existing Research}{13}{subsubsection.4.1.1}%
