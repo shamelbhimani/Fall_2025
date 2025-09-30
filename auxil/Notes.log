@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  30 SEP 2025 14:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  30 SEP 2025 14:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -500,6 +500,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/Shamel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 35--38
 
  []
@@ -516,7 +518,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--67
 
 
 
-[2]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 106--108
 
  []
@@ -553,7 +555,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--171
 
 
 
-[3]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 172--177
 
  []
@@ -575,7 +577,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--232
 
 
 
-[4]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 249--252
 
  []
@@ -587,16 +589,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 253--256
 
 
 
-[5]
-
 [6]
+
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 465--470
 
  []
 
 
 
-[7]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 471--477
 
  []
@@ -618,7 +620,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 521--525
 
 
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 540--542
 
  []
@@ -630,7 +632,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 613--617
 
 
 
-[9]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 627--629
 
  []
@@ -657,7 +659,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 673--676
 
 
 
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 684--686
 
  []
@@ -674,28 +676,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 727--729
 
 
 
-[11]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 822--825
 
  []
 
 
 
-[12]
+[13]
 
-[13] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
+[14] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: 0FA2CF0DC266652B2BD7BA3F2C6FD8AE;10865.
+(rerunfilecheck)             Checksum: 4B7A459BD7BD5CE86941D7AF10848E37;11134.
  ) 
 Here is how much of TeX's memory you used:
- 11517 strings out of 473903
- 177201 string characters out of 5726108
- 1948908 words of memory out of 5000000
- 34183 multiletter control sequences out of 15000+600000
+ 11520 strings out of 473903
+ 177248 string characters out of 5726108
+ 1947908 words of memory out of 5000000
+ 34184 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,1028b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -707,10 +709,10 @@ ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Shamel/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (13 p
-ages, 182701 bytes).
+Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (14 p
+ages, 185424 bytes).
 PDF statistics:
- 279 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 

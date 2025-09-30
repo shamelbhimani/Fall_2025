@@ -1,33 +1,34 @@
-\contentsline {section}{\numberline {1}Introduction to Network Analysis}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Olga V. Chyzh. Network analysis in international relations. In Cameron G. Thies, editor, Handbook of International Relations, pages 158–170. Edward Elgar Publishing, 2025.}{2}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}Networks in International Relations}{2}{subsubsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.2}Methodological and Theoretical Contributions}{2}{subsubsection.1.1.2}%
-\contentsline {subsubsection}{\numberline {1.1.3}The Debate and Normalization of Network Analysis in IR}{3}{subsubsection.1.1.3}%
-\contentsline {subsubsection}{\numberline {1.1.4}Current Research and Future Directions}{3}{subsubsection.1.1.4}%
-\contentsline {section}{\numberline {2}Network Centrality}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}John F. Padgett and Christopher K. Ansell. Robust action and the rise of the Medici, 1400-1434. American Journal of Sociology, 98(6):1259–1319, 1993.}{4}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Introduction and Core Argument}{4}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Core Concepts Explained}{4}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Historical Context: Florence (1400-1434)}{4}{subsubsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.4}Methodology and Data}{5}{subsubsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.5}Empirical Findings: Attributional vs. Network Structure}{5}{subsubsection.2.1.5}%
-\contentsline {subsubsection}{\numberline {2.1.6}Network Dynamics: How the Medici Party Emerged}{7}{subsubsection.2.1.6}%
-\contentsline {subsubsection}{\numberline {2.1.7}Network Identities: Robust Action and Legitimacy}{8}{subsubsection.2.1.7}%
-\contentsline {subsubsection}{\numberline {2.1.8}Conclusion}{8}{subsubsection.2.1.8}%
-\contentsline {section}{\numberline {3}Communities}{8}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Marina G Duque. Recognizing international status: A relational approach. Inter-national Studies Quarterly, 62(3):577–592, 2018.}{8}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Central Argument and Thesis}{8}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}The Conventional (Attribute-Based) Approach and Its Flaws}{9}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}A Relational Theory of Status}{9}{subsubsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}Empirical Strategy and Methodology}{10}{subsubsection.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.1.5}Key Findings}{10}{subsubsection.3.1.5}%
-\contentsline {subsection}{\numberline {3.2}Wayne W Zachary. An information flow model for conflict and fission in small groups. Journal of Anthropological Research, 33(4):452–473, 1977.}{10}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}The Problem of Fission in Small Groups}{10}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Case Study: A University Karate Club}{11}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Social Network Models and Their Limitations}{11}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}The Capacitated Network Model}{11}{subsubsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.5}Analysis and Results}{12}{subsubsection.3.2.5}%
-\contentsline {subsubsection}{\numberline {3.2.6}Conclusion and Implications}{12}{subsubsection.3.2.6}%
-\contentsline {section}{\numberline {4}Communities II}{13}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Roger V Gould. Multiple networks and mobilization in the Paris Commune, 1871. American Sociological Review, pages 716–729, 1991.}{13}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Core Argument and Critique of Existing Research}{13}{subsubsection.4.1.1}%
+\contentsline {section}{\numberline {1}Introduction to Network Analysis}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Olga V. Chyzh. Network analysis in international relations. In Cameron G. Thies, editor, Handbook of International Relations, pages 158–170. Edward Elgar Publishing, 2025.}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Networks in International Relations}{3}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Methodological and Theoretical Contributions}{3}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}The Debate and Normalization of Network Analysis in IR}{4}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Current Research and Future Directions}{4}{subsubsection.1.1.4}%
+\contentsline {section}{\numberline {2}Network Centrality}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}John F. Padgett and Christopher K. Ansell. Robust action and the rise of the Medici, 1400-1434. American Journal of Sociology, 98(6):1259–1319, 1993.}{5}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Introduction and Core Argument}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Core Concepts Explained}{5}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Historical Context: Florence (1400-1434)}{5}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Methodology and Data}{6}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Empirical Findings: Attributional vs. Network Structure}{6}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}Network Dynamics: How the Medici Party Emerged}{8}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.7}Network Identities: Robust Action and Legitimacy}{9}{subsubsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.8}Conclusion}{9}{subsubsection.2.1.8}%
+\contentsline {section}{\numberline {3}Communities}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Marina G Duque. Recognizing international status: A relational approach. Inter-national Studies Quarterly, 62(3):577–592, 2018.}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Central Argument and Thesis}{9}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}The Conventional (Attribute-Based) Approach and Its Flaws}{10}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}A Relational Theory of Status}{10}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Empirical Strategy and Methodology}{11}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Key Findings}{11}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}Wayne W Zachary. An information flow model for conflict and fission in small groups. Journal of Anthropological Research, 33(4):452–473, 1977.}{11}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}The Problem of Fission in Small Groups}{11}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Case Study: A University Karate Club}{12}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Social Network Models and Their Limitations}{12}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}The Capacitated Network Model}{12}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Analysis and Results}{13}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Conclusion and Implications}{13}{subsubsection.3.2.6}%
+\contentsline {section}{\numberline {4}Communities II}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Roger V Gould. Multiple networks and mobilization in the Paris Commune, 1871. American Sociological Review, pages 716–729, 1991.}{14}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Core Argument and Critique of Existing Research}{14}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Case Study: The Paris Commune (1871)}{14}{subsubsection.4.1.2}%
