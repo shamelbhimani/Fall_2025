@@ -905,4 +905,54 @@ depends not on the sheer number of social ties, but on the
         initial recruitment.
     \end{itemize}
 
+    \subsubsection{Network Autocorrelation Model}
+
+    \noindent \textbf{Objective:} To quantitatively test if levels of
+resistance in different neighbourhoods were interdependent due to the
+network of organizational ties.\\
+
+    \noindent \textbf{Methodology:}
+    \begin{itemize}
+        \item \textbf{Model:} A network autocorrelation regression model
+        $(y = \rho Wy + X\beta + \epsilon)$ was used. This model posits that
+        the outcome in one district $(y)$ is influenced by exogenous
+        variables $(X)$ and by the outcomes in other districts to which it
+        is linked $(Wy)$.
+        \item \textbf{Dependent Varaibles $(y)$:} Two measures of resistance
+        were used: (1) average battalion size and (2) deaths per 1,000
+        inhabitants.
+        \item \textbf{Key Network Matrix $(W)$:} A matrix representing \textbf{enlistment overlaps} -- the number of Guardsmen from one district who served in the legion of another district.
+        \item \textbf{Comparison:} The results of the enlistment network
+        model were compared to a spatial model that used a simple
+        geographical adjacency matrix to check if effects were merely due to
+        proximity.
+    \end{itemize}
+
+    \noindent \textbf{Key Findings:}
+    \begin{itemize}
+        \item
+        \textbf{A positive and significant autocorrelation effect $(\rho)$ was found for the enlistment network model}, but not for the spatial model.
+        \item \textbf{Interpretation:} High levels of commitment in one
+        district enhanced commitment in other districts to which it was
+        connected through enlistment overlaps. This interdependence was
+        fundamentally social, not merely geographical.
+    \end{itemize}
+
+    \noindent \textbf{The Directionality of Influence:}
+    \begin{itemize}
+        \item The model was re-estimated using the
+        \textbf{transpose of the $W$ matrix $(W')$}, which tests for the
+        reverse causal pathway (i.e., whether a district was influenced by
+        outsiders serving in its units).
+        \item \textbf{Results:} The autocorrelations coefficient became
+        insignificant.
+        \item \textbf{Conclusion:} The influence was \textbf{unidirectional}
+        . A district's resistance level was affected by the experiences of
+        its \textbf{own residents serving in other districts}, but not by
+        the presence of insurgents from other districts serving within its
+        units. Insurgents serving away from home influenced their neighbours
+        back home, but not the men they served alongside from other
+        neighbourhoods.
+    \end{itemize}
+
  \end{document}
