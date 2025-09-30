@@ -704,5 +704,33 @@ i.e., a coefficient for each of $p$ predictors plus an intercept.\\
 number of coefficients to be estimated $(p+1)$. TSS is divided by $(n-1)$
 since TSS estimates only one parameter, the mean of the outcome variable or $\bar{Y}$.
 
+    \subsection{Regression Discontinuity Design}
+
+    \noindent Regression discontinuity design is a research design strategy
+for causal inference in observational studies with possible confounding
+factors. The discussion in Chapter 2 implies that we can interpret the
+association between treatment and outcome variables as causal if there is no
+confounding variable. In observational studies, however, the treatment
+assignment is not randomized as discussed in this chapter so far. As a
+result, confounding factors, rather than the treatment variable, may explain
+the outcome difference between the treatment and control groups.\\
+
+    \noindent The Regression discontinuity design assumes that the change in
+outcome at the point of discontinuity can be attributed to the change in the
+treatment variable alone. The point of discontinuity is different based on
+dataset and variable selection, but the general idea is that the point of
+discontinuity \texit{lies along the zero margin}.\\
+
+    \noindent How should one examine the \textit{internal validity} of
+regression discontinuity design? One way is a \textit{palcebo test}. A
+placebo test finds a case where the effect is theoretically known to be zero
+and then shows that the estimated effect is indeed close to zero. The name
+comes from the fact that in a medical study a placebo is supposed to have
+zero effect on health outcomes.\\
+
+    \noindent While RD design can overcome the main difficulty of
+observational studies, i.e., potential confounding bias, this strength of \textit{internal validity} comes at the cost of \textit{external validity}. Specifically, the estimated causal effects obtained under this design apply only to the observations near the point of discontinuity, and the results may not be generalizable to observations away from the point of discountinuity.
+
+
 
 \end{document}

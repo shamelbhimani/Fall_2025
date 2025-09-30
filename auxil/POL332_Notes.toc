@@ -18,3 +18,4 @@
 \contentsline {subsection}{\numberline {4.3}Model Fit}{9}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Regression and Randomized Experiments}{10}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}Regression With Multiple Predictors}{10}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Regression Discontinuity Design}{11}{subsection.4.6}%
