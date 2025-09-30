@@ -39,3 +39,4 @@
 \contentsline {subsubsection}{\numberline {4.2.1}Core Research Question and Thesis}{16}{subsubsection.4.2.1}%
 \contentsline {subsubsection}{\numberline {4.2.2}Context: Local Politics in the Philippines}{17}{subsubsection.4.2.2}%
 \contentsline {subsubsection}{\numberline {4.2.3}Methodology: Identifying Clans and Measuring Fractionalization}{17}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Key Findings}{18}{subsubsection.4.2.4}%
