@@ -565,7 +565,7 @@ closer to that mean. This tendency can be explained by chance alone.
     \subsection{Model Fit}
 
     \noindent Model fit measures how well the model fits the data, i.e., how
-accruately the model predicts the observations. We can assess model fit by
+accurately the model predicts the observations. We can assess model fit by
 looking at the \textit{coefficient of determination} or $R^2$, which
 represents the proportion of total variation in the outcome variable
 explained by the model. To define $R^2$, we first introduce the
@@ -586,6 +586,54 @@ proportion of TSS explained by the predictor $X$:
     The value of $R^2$ ranges from 0 (when the correlation between the
 outcome and the predictor is 0) to 1 (when the correlation is 1), indicating
 how well the linear model fits the data at hand.
+
+    \subsection{Regression and Randomized Experiments}
+
+    \noindent Inference requires prediction of counterfactual outcomes. For
+units who received a treatment, we wish to predict the values of the outcome
+variable that would result without the treatment. Under certain assumptions,
+regression models can be used to predict counterfactual outcomes. We must be
+careful, however, because association, which can be quantified through
+regression, does not necessarily imply causation.\\
+
+    \noindent So, how can we use regression to analyze data from randomized
+experiments? It turns out that regressing an outcome variable on a treatment
+variable yields a slope coefficient identical to the difference in average
+outcomes between two groups. In addition, the resulting intercept
+corresponds to the average outcome among the control units. More generally,
+when the predictor $X$ is binary, taking a value of either 0 or 1, the
+linear model equation yields the estimated coefficients of the following
+expressions:
+
+    \[
+        \hat{\alpha} = \underbrace{
+        \frac{1}{n_0}\sum^{n}_{i=1}(1-X_i)Y_i
+        }_{\text{mean outcome among the control}},
+    \]
+
+    \[
+        \hat{\beta} = \underbrace{
+        \frac{1}{n_1}\sum^{n}_{i=1}X_iY_i
+        }_{\text{mean outcome among the treated}} - \underbrace{
+        \frac{1}{n_0}\sum^{n}_{i=1}(1-X_i)Y_i
+        }_{\text{mean outcome among the control}}
+    \]
+
+    \indent Where \\
+    \indent \indent $n_1 = \sum^{n}_{i=1}X_i$ is the size of the treatment
+group \\
+    \indent \indent $n_0 = n-n_1$ is the size of the control group.\\
+    \indent Thus, $\hat{\beta}$ can be interpreted as the estimated average
+treatment effect. \\
+
+    \noindent We can directly connect the potential outcomes covered in
+Chapter 2 to the regression model. Since the regression model predicts the
+average outcome given a value of the predictor, the estimated average
+treatment effect equals the estimated slope coefficient when $X$ is binary.
+Recall that $\hat{\beta}$ represents the estimated change in $Y$ when $X$ is
+increasing by one unit. Then, we have
+$\hat{Y(1)} - \hat{Y(0)} = (\hat{\alpha} + \hat{\beta}) - \hat{\alpha} = \hat{beta}$, while the estimated average outcome for the control group is equal to the estimated intercept, i.e., $\hat{Y(0)} = \hat{\alpha}$. Thus, the linear regression model provides an alternative, but numerically equaivalent, way to analyze experimental data in this setting.
+
 
 
 
