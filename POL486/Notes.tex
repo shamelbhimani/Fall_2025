@@ -1029,5 +1029,59 @@ politicians.
         and organized around families.
     \end{itemize}
 
+    \subsubsection{Methodology: Identifying Clans and Measuring Fractionalization}
+
+    \noindent \textbf{Data:}
+    \begin{itemize}
+        \item \textbf{Networks:} Constructed from a survey of
+        \textbf{20 million individuals} in over 15,000 villages.
+        \item \textbf{Public Goods:} 2010 population census data on the
+        presence of schools, markets, health centers, etc.
+        \item \textbf{Elections:} Official results for municipal and village
+        elections.
+    \end{itemize}
+
+    \noindent \textbf{Constructing Family Networks:}
+    \begin{itemize}
+        \item A \textbf{network tie (edge)} between two families is
+        identified when a marriage between members of those families is
+        observed.
+        \item This is possible due to Philippine naming conventions, where
+        individuals carry two family names (father's and mother's maiden
+        name), revealing a marriage tie in their own or their parents'
+        generation.
+    \end{itemize}
+
+    \noindent \textbf{Identifying Clans via Community Detection:}
+    \begin{itemize}
+        \item Clans are proxied by
+        \textbf{``communities'' in the family marriage network} -- groups of
+        familieis with dense internal marriage ties and sparse ties to other
+        groups.
+        \item The \textbf{Girvan-Newman algorithm} is used to identify these
+        communities by sequentially removing network edges with the highest
+        `betweenness centrality'. The \textbf{Walktrap algorithm} is used as
+        a robustness check.
+    \end{itemize}
+
+    \noindent \textbf{Measuring Social Fractionalization (SF):}
+    \begin{itemize}
+        \item The primary independent variable is a
+        \textbf{Herfindahl index of social fractionalization}.
+        \item \textbf{Formula:} $SF = 1 - \sum^{C}_{c=1}s^2_c$.
+        \item \textbf{Interpretation:} The probability that two randomly
+        selected families in a village belong to different clans.
+    \end{itemize}
+
+    \noindent \textbf{Empirical Strategy:}
+    \begin{itemize}
+        \item Village level OLS regressions with
+        \textbf{municipality fixed effects} to control for all
+        municipality-wide factors and focus on variation \textit{within} a
+        municipality.
+        \item
+        \textbf{To address endogeneity} (e.g., public goods attracting new families and alterting networks), an instrumental variables (IV) approach is used. The instrument is a fractionalization measure built from a network of only individuals aged 45+, representing marraiges from a generation prior.
+    \end{itemize}
+
 
  \end{document}
