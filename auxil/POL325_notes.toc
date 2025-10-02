@@ -50,3 +50,4 @@
 \contentsline {subsubsection}{\numberline {4.1.3}Long-Term Contributing Factors}{26}{subsubsection.4.1.3}%
 \contentsline {subsubsection}{\numberline {4.1.4}The Post-Coup Regime: Jeanine Anez}{26}{subsubsection.4.1.4}%
 \contentsline {subsubsection}{\numberline {4.1.5}State Repression and Human Rights Violations}{27}{subsubsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.6}Resistance and International Reaction}{27}{subsubsection.4.1.6}%
