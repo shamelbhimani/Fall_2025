@@ -55,3 +55,4 @@
 \contentsline {subsubsection}{\numberline {4.2.1}Geography and Demographics}{28}{subsubsection.4.2.1}%
 \contentsline {subsubsection}{\numberline {4.2.2}Indigenous Cultures and History}{29}{subsubsection.4.2.2}%
 \contentsline {subsubsection}{\numberline {4.2.3}20th Century and Neoliberalism}{29}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}The Country the MAS Inherited (2006):}{30}{subsubsection.4.2.4}%
