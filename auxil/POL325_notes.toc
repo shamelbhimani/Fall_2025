@@ -51,3 +51,5 @@
 \contentsline {subsubsection}{\numberline {4.1.4}The Post-Coup Regime: Jeanine Anez}{26}{subsubsection.4.1.4}%
 \contentsline {subsubsection}{\numberline {4.1.5}State Repression and Human Rights Violations}{27}{subsubsection.4.1.5}%
 \contentsline {subsubsection}{\numberline {4.1.6}Resistance and International Reaction}{27}{subsubsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.2}Linda Farthing and Benjamin Kohl (2014) The Land of Unintended Consequences. In Evo’s Bolivia: Continuity and Change. Austin, TX: University of Texas Press, Ch. 2.}{28}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Geography and Demographics}{28}{subsubsection.4.2.1}%
