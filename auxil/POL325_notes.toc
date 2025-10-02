@@ -42,3 +42,7 @@
 \contentsline {subsubsection}{\numberline {3.2.2}The Vicious Cycle: Inequality, Capture, and Democracy}{22}{subsubsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.3}Fiscal Policy and Its Impact in LAC}{22}{subsubsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.4}Mechanisms of Fiscal Capture by Elites in LAC}{23}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}Lecture}{24}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Bolivia: Continuities and Change during the MAS Era}{25}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Gabriel Hetland (2019) Understanding Bolivia’s Nightmare. NACLA Report of the Americas https://nacla.org/news/2019/11/19/bolivia-morales-coup}{25}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}The Event: A Military Coup}{25}{subsubsection.4.1.1}%
