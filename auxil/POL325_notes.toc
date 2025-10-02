@@ -59,3 +59,4 @@
 \contentsline {subsection}{\numberline {4.3}Alina Duarte (2020) Bolivia and Necessary Self-Critique: ‘In it not enough to have the government, we have to have people’s power’ Council on Hemispheric Affairs. https://www.coha.org/bolivia-and-necessary-self-critique-it-is-not-enough-to-have-the-government-we-have-to-have-peoples-power}{31}{subsection.4.3}%
 \contentsline {subsubsection}{\numberline {4.3.1}Political Context: 2020 Election}{31}{subsubsection.4.3.1}%
 \contentsline {subsubsection}{\numberline {4.3.2}The Centrality of Self-Critique}{31}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Internal Analysis: Why the 2019 Coup Succeeded}{31}{subsubsection.4.3.3}%

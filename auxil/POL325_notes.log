@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  2 OCT 2025 12:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  2 OCT 2025 12:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -879,6 +879,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2022--2026
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 2051--2054
+
+ []
+
+
 
 [31] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\POL325_notes.aux)
  ***********
@@ -886,13 +891,13 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `POL325_notes.out' has not changed.
-(rerunfilecheck)             Checksum: F860EE9124950988AC1014938F7EA999;25869.
+(rerunfilecheck)             Checksum: B612FA054DEE488793EF84FF21A74CF6;26185.
  ) 
 Here is how much of TeX's memory you used:
- 11595 strings out of 473903
- 178585 string characters out of 5726108
+ 11597 strings out of 473903
+ 178625 string characters out of 5726108
  1949908 words of memory out of 5000000
- 34215 multiletter control sequences out of 15000+600000
+ 34216 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,1647b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -905,9 +910,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shamel/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Shamel/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\POL325_notes.pd
-f (31 pages, 280404 bytes).
+f (31 pages, 282199 bytes).
 PDF statistics:
- 516 PDF objects out of 1000 (max. 8388607)
- 93 named destinations out of 1000 (max. 500000)
- 489 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 521 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 497 words of extra memory for PDF output out of 10000 (max. 10000000)
 
