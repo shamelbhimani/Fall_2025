@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  15 OCT 2025 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.7)  15 OCT 2025 15:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -770,6 +770,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 1166--1169
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1204
+
+ []
+
+
 
 [19] (C:/Users\Shamel\PycharmProjects\Fall_2025\auxil\Notes.aux)
  ***********
@@ -777,13 +797,13 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: 78EDF6A5A3DDCC86955E905180C70928;16265.
+(rerunfilecheck)             Checksum: 0ED4E07D8A298A2AD77ABBFDBD888AA7;16502.
  ) 
 Here is how much of TeX's memory you used:
- 11551 strings out of 473903
- 177763 string characters out of 5726108
+ 11553 strings out of 473903
+ 177803 string characters out of 5726108
  1947908 words of memory out of 5000000
- 34197 multiletter control sequences out of 15000+600000
+ 34198 multiletter control sequences out of 15000+600000
  566613 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,1278b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -803,9 +823,9 @@ s/cm/cmr7.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX/fonts/type1/public
 pe1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Shamel/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:/Users\Shamel\PycharmProjects\Fall_2025\out\Notes.pdf (19 p
-ages, 270825 bytes).
+ages, 273010 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 67 named destinations out of 1000 (max. 500000)
- 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
+ 385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
