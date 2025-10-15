@@ -46,3 +46,4 @@
 \contentsline {subsubsection}{\numberline {5.1.1}Study Context and Research Problem}{18}{subsubsection.5.1.1}%
 \contentsline {subsubsection}{\numberline {5.1.2}Theoretical Framework: Social Theories of Protest}{19}{subsubsection.5.1.2}%
 \contentsline {subsubsection}{\numberline {5.1.3}Methodology and Data Collection:}{19}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}Network Hypotheses (Derived Predictions)}{19}{subsubsection.5.1.4}%
