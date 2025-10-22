@@ -61,3 +61,4 @@
 \contentsline {subsubsection}{\numberline {6.2.4}Hypotheses}{23}{subsubsection.6.2.4}%
 \contentsline {subsubsection}{\numberline {6.2.5}Policy Outcomes (Dependent Variables)}{23}{subsubsection.6.2.5}%
 \contentsline {subsubsection}{\numberline {6.2.6}Key Findings}{23}{subsubsection.6.2.6}%
+\contentsline {subsubsection}{\numberline {6.2.7}Endogeneity/Self-Selection}{24}{subsubsection.6.2.7}%
